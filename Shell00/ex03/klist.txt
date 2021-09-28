@@ -1,0 +1,5 @@
+Credentials cache: API:BCDECA67-E840-454F-A1C8-90D1DE4A18AB
+        Principal: mwatkins@42LYON.FR
+
+  Issued                Expires               Principal
+Aug  2 14:52:39 2021  Aug  3 14:52:39 2021  krbtgt/42LYON.FR@42LYON.FR
